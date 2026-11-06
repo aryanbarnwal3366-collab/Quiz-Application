@@ -39,3 +39,8 @@ py quiz.py
 Author
 
 Aryan Barnwal
+
+Output Screenshot
+
+![Quiz Application Result]
+(quiz_result.png)
